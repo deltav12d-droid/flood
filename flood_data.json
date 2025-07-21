@@ -1,0 +1,22 @@
+{
+  "streets": [
+    {
+      "name": "Nizamuddin Bridge",
+      "lat": 28.5882,
+      "lng": 77.2586,
+      "severity": "high"
+    },
+    {
+      "name": "Lajpat Nagar",
+      "lat": 28.5675,
+      "lng": 77.2433,
+      "severity": "medium"
+    },
+    {
+      "name": "Chandni Chowk",
+      "lat": 28.6562,
+      "lng": 77.2300,
+      "severity": "high"
+    }
+  ]
+}
