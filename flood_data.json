@@ -17,6 +17,24 @@
       "lat": 28.6562,
       "lng": 77.2300,
       "severity": "high"
+    },
+    {
+      "name":"Vyttila Junction, Kochi",
+      "lat":9.9649,
+      "lng":76.2755,
+      "severity":"high"
+    },
+    {
+      "name":"Thampanoor, Thiruvananthapuram",
+      "lat":8.4829,
+      "lng":76.9480,
+      "severity":"medium"},
+    {
+      "name":"Kothamangalam",
+      "lat":10.0899,
+      "lng":76.6191,
+      "severity":"high"
     }
+
   ]
 }
